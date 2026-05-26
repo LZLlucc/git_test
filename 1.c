@@ -1,4 +1,4 @@
-float mult(int x, int y)
+float add(int x, int y)
 {
 	return (x * y);
 }
